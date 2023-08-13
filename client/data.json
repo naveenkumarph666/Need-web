@@ -1,0 +1,286 @@
+{
+  "User": [
+    {
+      "username": "naveen babu ganta",
+      "mobile": "3294309431",
+      "mailId": "nani@gmail.com",
+      "dob": "24/02/1985",
+      "password": "nanijersey",
+      "confirmpassword": "nanijersey",
+      "id": "DcQ3uEU"
+    },
+    {
+      "username": "nani p",
+      "mobile": "324320932",
+      "mailId": "nani11@gmail.com",
+      "dob": "23/12/2003",
+      "password": "123",
+      "confirmpassword": "123",
+      "id": "rocuMHk"
+    }
+  ],
+  "Mobiles": [
+    {
+      "id": "3",
+      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
+      "Model": "VIVO Y20G",
+      "Price": 18000,
+      "RAM": "6GB",
+      "ROM": "128GB",
+      "Camera": "16MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "vivo Y20g Android smartphone. Announced Jan 2021. Features 6.51″ display, MT6769V chipset, 5000 mAh battery, 128 GB storage, 6 GB RAM."
+    },
+    {
+      "id": "4",
+      "Img": "https://5.imimg.com/data5/FT/GR/BX/SELLER-10192468/vivo-all-smartphones-1000x1000.jpg",
+      "Model": "VIVO S1 Pro",
+      "Price": 20000,
+      "RAM": "8GB",
+      "ROM": "128GB",
+      "Camera": "48MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "vivo S1 Pro Android smartphone. Announced Nov 2019. Features 6.38″ display, Snapdragon 665 chipset, 4500 mAh battery, 128 GB storage, 8 GB RAM."
+    },
+    {
+      "id": "5",
+      "Img": "https://i.gadgets360cdn.com/large/vivo_v17_pro_promo_twitter_bang_gogo_1568010461706.jpg",
+      "Model": "VIVO V17 Pro",
+      "Price": 25000,
+      "RAM": "8GB",
+      "ROM": "256GB",
+      "Camera": "48MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "V17 Pro is powered by a Qualcomm snapdragon 675 processor, which requires low power consumption but make your experience much more enjoyable."
+    },
+    {
+      "id": "6",
+      "Img": "https://images.firstpost.com/wp-content/uploads/2019/09/vivo-z1x.jpg",
+      "Model": "VIVO Z1X",
+      "Price": 30000,
+      "RAM": "8GB",
+      "ROM": "256GB",
+      "Camera": "32MP",
+      "Processor": "Octa Core",
+      "Ratings": 5,
+      "description": "Z1x innovative 2.5D shape design could cover 4,500mAh battery with only 8.13mm thickness. A large 4,500mAh battery keeps Z1x going longer, for a more enjoyable gaming and video experience."
+    },
+    {
+      "id": "7",
+      "Img": "https://www.gizbot.com/images/2019-07/vivo-s1_156352984560.jpg",
+      "Model": "VIVO S1",
+      "Price": 30000,
+      "RAM": "6GB",
+      "ROM": "256GB",
+      "Camera": "32MP",
+      "Processor": "Octa Core",
+      "Ratings": 3,
+      "description": "vivo S1 Android smartphone. Announced Jul 2019. Features 6.38″ display, MT6768 Helio P65 chipset, 4500 mAh battery, 256 GB storage, 6 GB RAM."
+    },
+    {
+      "id": "8",
+      "Img": "https://i.gadgets360cdn.com/large/realme_c11_front_ndtv_1596023000033.jpg",
+      "Model": "REAL ME C11",
+      "Price": 12000,
+      "RAM": "4GB",
+      "ROM": "32GB",
+      "Camera": "16MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "realme C11 in India is equipped with 5000mAh massive battery, 6.5 mini-drop fullscreen and nightscape dual camera.realme C11 2021- 5000mAh Battery. Real Quality. 5000mAh Massive Battery"
+    },
+    {
+      "id": "9",
+      "Img": "https://navbharattimes.indiatimes.com/thumb/84435680/realme-c21y-84435680.jpg?imgsize=41452&width=1200&height=900&resizemode=75",
+      "Model": "REAL ME C21Y",
+      "Price": 10900,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "32MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "Realme C21Y Android smartphone. Announced Jun 2021. Features 6.5″ display, Unisoc T610 chipset, 5000 mAh battery, 64 GB storage, 4 GB RAM."
+    },
+    {
+      "id": "10",
+      "Img": "https://stream.jdmagicbox.com/thumbnail/mp-1zxfrobfmjldwvu-realme-5i-ram-4-gb-64-gb-aqua-blue--178182343/jd-Ott_720x540_Thumbnail.0000005.jpg",
+      "Model": "REAL ME 5I",
+      "Price": 12000,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "48MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "The Realme 5i is here to meet your smartphone demands seamlessly as it houses a massive 5000 mAh battery and is powered by a 2.0 GHz Qualcomm Snapdragon 665 ..."
+    },
+    {
+      "id": "11",
+      "Img": "https://www.smartprix.com/bytes/wp-content/uploads/2019/08/Realme-5-Pro-India-launch-price-specification.jpg",
+      "Model": "REAL ME 5 PRO",
+      "Price": 13200,
+      "RAM": "6GB",
+      "ROM": "32GB",
+      "Camera": "32MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "Realme 5 Pro carries ultra wide-angle macro AI quad-camera, allowing users to take photos from multiple perspectives."
+    },
+    {
+      "id": "12",
+      "Img": "https://i01.appmifile.com/webfile/globalimg/in/cms/01D44ADC-324F-203F-FCB0-24A0FD532FA3!800x800!85.jpg",
+      "Model": "RED MI Note 7S",
+      "Price": 7999,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "53MP",
+      "Processor": "Octa Core",
+      "Ratings": 5,
+      "description": "The Redmi Note 7S features the revolutionary 48MP + 5MP dual rear camera that is sure to delight shutterbugs with its sharp resolution and unmatched features."
+    },
+    {
+      "id": "13",
+      "Img": "https://i01.appmifile.com/webfile/globalimg/in/cms/39C976DE-BFE2-2A95-863F-9690D84EBC55!800x800!85.jpg",
+      "Model": "RED MI Note 8",
+      "Price": 10480,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "48MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "This smartphone features an impressive 48MP Quad Camera Array that combines a powerful 48MP primary sensor, 8MP ultra-wide angle lens, a 2MP depth sensor and a .."
+    },
+    {
+      "id": "14",
+      "Img": "https://i02.appmifile.com/71_operator_in/12/08/2021/f0fdb391cfdac07ad0d649d32f319cc4!800x800!85.jpg",
+      "Model": "RED MI Note 10 pro",
+      "Price": 17999,
+      "RAM": "6GB",
+      "ROM": "128GB",
+      "Camera": "64MP",
+      "Processor": "Octa Core",
+      "Ratings": 5,
+      "description": "Yes, Redmi Note 10 Pro comes with a 64MP sensor. It also features a 5 MP super macro camera with 2X telephoto zoom, 8MP ultrawide sensor and 2MP depth sensor."
+    },
+    {
+      "id": "15",
+      "Img": "https://images.news18.com/ibnlive/uploads/2022/03/redmi-10-5g-launch-price-16485721783x2.jpg",
+      "Model": "RED MI 10 5G",
+      "Price": 15045,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "48MP",
+      "Processor": "Octa Core",
+      "Ratings": 4,
+      "description": "Introducing Redmi 10 5G with dual 5G, High-performance MediaTek Dimensity 700 and high-resolution main camera, It's the phone you'll never want to set down."
+    },
+    {
+      "id": "16",
+      "Img": "https://images.samsung.com/levant/smartphones/galaxy-s22-ultra/buy/S22_Ultra_AnimatedKV_Thumbnail_MO.jpg",
+      "Model": "SAMSUNG Galaxy S22 Ultra 5g",
+      "Price": 74000,
+      "RAM": "12GB",
+      "ROM": "256GB",
+      "Camera": "102MP",
+      "Processor": "SnapDragon",
+      "Ratings": 5,
+      "description": "Welcome to the epic new standard. Introducing Galaxy S22 Ultra 5G, with a built-in S Pen, Nightography camera and a battery that goes way beyond all day."
+    },
+    {
+      "id": "17",
+      "Img": "https://i.gadgets360cdn.com/large/M-13-main_1658493703630.png",
+      "Model": "SAMSUNG Galaxy M13",
+      "Price": 10999,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "48MP",
+      "Processor": "SnapDragon",
+      "Ratings": 4,
+      "description": "Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus : Need: Electronics."
+    },
+    {
+      "id": "18",
+      "Img": "https://t2.tudocdn.net/636558?w=1920",
+      "Model": "SAMSUNG Galaxy A13",
+      "Price": 14480,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "64MP",
+      "Processor": "Octa Core",
+      "Ratings": 3,
+      "description": "The Samsung Galaxy A13 features an Octa-core processor and comes with a 4 GB of RAM that helps in delivering blazing-fast and efficient performance. "
+    },
+    {
+      "id": "19",
+      "Img": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/others/in-feature-galaxy-a03s-a037-401442-490222361?$FB_TYPE_A_MO_JPG$",
+      "Model": "SAMSUNG Galaxy A03's",
+      "Price": 9999,
+      "RAM": "4GB",
+      "ROM": "64GB",
+      "Camera": "32MP",
+      "Processor": "Octa Core",
+      "Ratings": 3,
+      "description": "Samsung Galaxy A03s mobile was launched on 18th August 2021. The phone comes with a 6.50-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9."
+    }
+  ],
+  "Carts": [
+    {
+      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
+      "Model": "VIVO Y20G",
+      "Price": 18000,
+      "Quantity": 1,
+      "id": 1
+    }
+  ],
+  "Favorites": [
+    {
+      "Img": "https://i.gadgets360cdn.com/large/vivo_v17_pro_promo_twitter_bang_gogo_1568010461706.jpg",
+      "Model": "VIVO V17 Pro",
+      "Price": 25000,
+      "id": 5
+    },
+    {
+      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
+      "Model": "VIVO Y20G",
+      "Price": 18000,
+      "id": 6
+    },
+    {
+      "Img": "https://images.firstpost.com/wp-content/uploads/2019/09/vivo-z1x.jpg",
+      "Model": "VIVO Z1X",
+      "Price": 30000,
+      "id": 7
+    },
+    {
+      "Img": "https://5.imimg.com/data5/FT/GR/BX/SELLER-10192468/vivo-all-smartphones-1000x1000.jpg",
+      "Model": "VIVO S1 Pro",
+      "Price": 20000,
+      "id": 8
+    }
+  ],
+  "Orders": [
+    {
+      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
+      "Model": "VIVO Y20G",
+      "Price": 18000,
+      "Quantity": 1,
+      "id": 1
+    },
+    {
+      "Img": "https://5.imimg.com/data5/FT/GR/BX/SELLER-10192468/vivo-all-smartphones-1000x1000.jpg",
+      "Model": "VIVO S1 Pro",
+      "Price": 20000,
+      "Quantity": 1,
+      "id": 2
+    },
+    {
+      "Model": "VIVO V17 Pro",
+      "Quantity": 3,
+      "id": 3,
+      "Img": "https://i.gadgets360cdn.com/large/vivo_v17_pro_promo_twitter_bang_gogo_1568010461706.jpg",
+      "Price": 25000
+    }
+  ]
+}

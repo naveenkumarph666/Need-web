@@ -1,0 +1,90 @@
+.dashboard-buttons {
+    justify-content: center;
+}
+.addfav-button {
+    background-color:whitesmoke;
+    color: black;
+    font-size: medium;
+    font-weight: lighter;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 5;
+}
+.remove-button{
+    background-color: whitesmoke;
+        color: black;
+        font-size: medium;
+        font-weight: lighter;
+        border-style: none;
+            padding: 5px;
+            cursor: pointer;
+            box-shadow: 5;
+}
+.login-button{
+    background-color: whitesmoke;
+    color: black;
+    font-size: medium;
+    border-style:none;
+      margin:5px;
+      text-decoration: none;
+        padding: 7px;
+        cursor: pointer;
+}
+.card-content {
+    background-color: #cadfdf;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.addcart-button {
+    background-color: rgb(23, 23, 23);
+    color: white;
+    font-size: medium;
+    font-weight: lighter;
+    border: 2px;
+    cursor: pointer;
+    margin-left:5px;
+    padding: 5px;
+    box-shadow: 5;
+}
+.dashboard-body2{
+    margin-left:40px;
+    display:flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 20px;   
+}
+.dashboard-card:hover{
+   box-shadow: 7px 10px #696565;
+}
+
+
+.place-order{
+    background-color: black;
+    color: white;
+    font-size: medium;
+    font-weight: lighter;
+    padding: 5px;
+    cursor:pointer;
+    text-decoration: none;
+    text-align: center;
+    max-width :140px; 
+    box-shadow: 5;
+}
+.place-button{
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.dashboard-icons{
+    color:black;
+}
+.profile-actions{
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
