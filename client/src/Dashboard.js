@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import AppBar from '@mui/material/AppBar';
-import sample from 'C:/Users/naveenkumar.p15/Need/client/src/Images/vivo y20g logo.jpg';
 import { Avatar, Badge, Box, Button, ButtonBase, Card, CardActions, CardContent, CardMedia, Checkbox, Divider, Drawer, Grid, IconButton, InputBase, Link, List, ListItemButton, ListItemIcon, ListItemText, Stack, ThemeProvider, Toolbar, Tooltip, Typography, useTheme } from "@mui/material";
 import MenuIcon from '@mui/icons-material/Menu';
 import MenuItem from '@mui/material/MenuItem';
