@@ -290,17 +290,11 @@ function Dashboard() {
                     </ListItemButton>
                     <ListItemButton>
                         <ListItemIcon>
-                            <AddCardIcon />
-                        </ListItemIcon>
-                        <ListItemText primary='Add Card' />
-                    </ListItemButton>
-                    <ListItemButton>
-                        <ListItemIcon>
                             <Switch size="small" />
                         </ListItemIcon>
                         <ListItemText primary='Dark Mode' />
                     </ListItemButton>
-                    <ListItemButton>
+                    <ListItemButton onClick={()=>logoutDashboard()}>
                         <ListItemIcon>
                             <LogoutIcon />
                         </ListItemIcon>
@@ -346,17 +340,11 @@ function Dashboard() {
                             </ListItemButton>
                             <ListItemButton>
                                 <ListItemIcon>
-                                    <AddCardIcon className='dashboard-icons' />
-                                </ListItemIcon>
-                                <ListItemText primary='Add Card' />
-                            </ListItemButton>
-                            <ListItemButton>
-                                <ListItemIcon>
                                     <Switch size="small" className='dashboard-icons' />
                                 </ListItemIcon>
                                 <ListItemText primary='Dark Mode' />
                             </ListItemButton>
-                            <ListItemButton>
+                            <ListItemButton onClick={()=>logoutDashboard()}>
                                 <ListItemIcon>
                                     <LogoutIcon className='dashboard-icons' />
                                 </ListItemIcon>
