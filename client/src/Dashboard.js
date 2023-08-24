@@ -270,17 +270,17 @@ function Dashboard() {
                         </ListItemIcon>
                         <ListItemText primary='My Profile' />
                     </ListItemButton>
-                    <ListItemButton onClick={() => navigate('/viewcart')}>
-                        <ListItemIcon>
-                            <AddShoppingCartIcon />
-                        </ListItemIcon>
-                        <ListItemText primary='View Carts' />
-                    </ListItemButton>
                     <ListItemButton onClick={() => navigate('/favorites')}>
                         <ListItemIcon>
                             <FavoriteBorderIcon />
                         </ListItemIcon>
                         <ListItemText primary='Favorites' />
+                    </ListItemButton>
+                    <ListItemButton onClick={() => navigate('/viewcart')}>
+                        <ListItemIcon>
+                            <AddShoppingCartIcon />
+                        </ListItemIcon>
+                        <ListItemText primary='View Carts' />
                     </ListItemButton>
                     <ListItemButton href='/orders'>
                         <ListItemIcon>
@@ -290,17 +290,11 @@ function Dashboard() {
                     </ListItemButton>
                     <ListItemButton>
                         <ListItemIcon>
-                            <AddCardIcon />
-                        </ListItemIcon>
-                        <ListItemText primary='Add Card' />
-                    </ListItemButton>
-                    <ListItemButton>
-                        <ListItemIcon>
                             <Switch size="small" />
                         </ListItemIcon>
                         <ListItemText primary='Dark Mode' />
                     </ListItemButton>
-                    <ListItemButton>
+                    <ListItemButton onClick={() => logoutDashboard()}>
                         <ListItemIcon>
                             <LogoutIcon />
                         </ListItemIcon>
@@ -326,17 +320,17 @@ function Dashboard() {
                                 </ListItemIcon>
                                 <ListItemText primary='My Profile' />
                             </ListItemButton>
-                            <ListItemButton href='/viewcart'>
-                                <ListItemIcon>
-                                    <AddShoppingCartIcon className='dashboard-icons' />
-                                </ListItemIcon>
-                                <ListItemText primary='View Carts' />
-                            </ListItemButton>
                             <ListItemButton href='/favorites'>
                                 <ListItemIcon>
                                     <FavoriteBorderIcon className='dashboard-icons' />
                                 </ListItemIcon>
                                 <ListItemText primary='Favorites' />
+                            </ListItemButton>
+                            <ListItemButton href='/viewcart'>
+                                <ListItemIcon>
+                                    <AddShoppingCartIcon className='dashboard-icons' />
+                                </ListItemIcon>
+                                <ListItemText primary='View Carts' />
                             </ListItemButton>
                             <ListItemButton href='/orders'>
                                 <ListItemIcon>
@@ -346,17 +340,11 @@ function Dashboard() {
                             </ListItemButton>
                             <ListItemButton>
                                 <ListItemIcon>
-                                    <AddCardIcon className='dashboard-icons' />
-                                </ListItemIcon>
-                                <ListItemText primary='Add Card' />
-                            </ListItemButton>
-                            <ListItemButton>
-                                <ListItemIcon>
                                     <Switch size="small" className='dashboard-icons' />
                                 </ListItemIcon>
                                 <ListItemText primary='Dark Mode' />
                             </ListItemButton>
-                            <ListItemButton>
+                            <ListItemButton onClick={() => logoutDashboard()}>
                                 <ListItemIcon>
                                     <LogoutIcon className='dashboard-icons' />
                                 </ListItemIcon>
