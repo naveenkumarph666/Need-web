@@ -270,17 +270,17 @@ function Dashboard() {
                         </ListItemIcon>
                         <ListItemText primary='My Profile' />
                     </ListItemButton>
-                    <ListItemButton onClick={() => navigate('/viewcart')}>
-                        <ListItemIcon>
-                            <AddShoppingCartIcon />
-                        </ListItemIcon>
-                        <ListItemText primary='View Carts' />
-                    </ListItemButton>
                     <ListItemButton onClick={() => navigate('/favorites')}>
                         <ListItemIcon>
                             <FavoriteBorderIcon />
                         </ListItemIcon>
                         <ListItemText primary='Favorites' />
+                    </ListItemButton>
+                    <ListItemButton onClick={() => navigate('/viewcart')}>
+                        <ListItemIcon>
+                            <AddShoppingCartIcon />
+                        </ListItemIcon>
+                        <ListItemText primary='View Carts' />
                     </ListItemButton>
                     <ListItemButton href='/orders'>
                         <ListItemIcon>
@@ -320,17 +320,17 @@ function Dashboard() {
                                 </ListItemIcon>
                                 <ListItemText primary='My Profile' />
                             </ListItemButton>
-                            <ListItemButton href='/viewcart'>
-                                <ListItemIcon>
-                                    <AddShoppingCartIcon className='dashboard-icons' />
-                                </ListItemIcon>
-                                <ListItemText primary='View Carts' />
-                            </ListItemButton>
                             <ListItemButton href='/favorites'>
                                 <ListItemIcon>
                                     <FavoriteBorderIcon className='dashboard-icons' />
                                 </ListItemIcon>
                                 <ListItemText primary='Favorites' />
+                            </ListItemButton>
+                            <ListItemButton href='/viewcart'>
+                                <ListItemIcon>
+                                    <AddShoppingCartIcon className='dashboard-icons' />
+                                </ListItemIcon>
+                                <ListItemText primary='View Carts' />
                             </ListItemButton>
                             <ListItemButton href='/orders'>
                                 <ListItemIcon>

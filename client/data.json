@@ -225,15 +225,7 @@
       "description": "Samsung Galaxy A03s mobile was launched on 18th August 2021. The phone comes with a 6.50-inch touchscreen display offering a resolution of 720x1600 pixels and an aspect ratio of 20:9."
     }
   ],
-  "Carts": [
-    {
-      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
-      "Model": "VIVO Y20G",
-      "Price": 18000,
-      "Quantity": 1,
-      "id": 1
-    }
-  ],
+  "Carts": [],
   "Favorites": [
     {
       "Img": "https://i.gadgets360cdn.com/large/vivo_v17_pro_promo_twitter_bang_gogo_1568010461706.jpg",
@@ -260,27 +252,5 @@
       "id": 8
     }
   ],
-  "Orders": [
-    {
-      "Img": "https://cdn.ytechb.com/wp-content/uploads/2022/03/vivo-y20g-android-12-update.webp",
-      "Model": "VIVO Y20G",
-      "Price": 18000,
-      "Quantity": 1,
-      "id": 1
-    },
-    {
-      "Img": "https://5.imimg.com/data5/FT/GR/BX/SELLER-10192468/vivo-all-smartphones-1000x1000.jpg",
-      "Model": "VIVO S1 Pro",
-      "Price": 20000,
-      "Quantity": 1,
-      "id": 2
-    },
-    {
-      "Model": "VIVO V17 Pro",
-      "Quantity": 3,
-      "id": 3,
-      "Img": "https://i.gadgets360cdn.com/large/vivo_v17_pro_promo_twitter_bang_gogo_1568010461706.jpg",
-      "Price": 25000
-    }
-  ]
+  "Orders": []
 }

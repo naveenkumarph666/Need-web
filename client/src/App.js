@@ -1,5 +1,5 @@
 import react from 'react';
-import {BrowserRouter, Route, Routes} from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Dashboard from './Dashboard';
 import Myprofile from './My profile';
 import ViewCart from './ViewCart';
@@ -22,7 +22,7 @@ function App() {
      <Route path='/favorites' element={<Favorites/>}/>
      <Route path='/orders' element={<Order/>}/>
     </Routes>
-    </BrowserRouter>  
+    </BrowserRouter>
     </div>
   );
 }
