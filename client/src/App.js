@@ -5,7 +5,6 @@ import Myprofile from './My profile';
 import ViewCart from './ViewCart';
 import ViewMore from './ViewInd';
 import Favorites from './Favorites';
-import PaymentPage from './PaymentPage';
 import Login from './Login';
 import Order from './Order';
 import Register from './Register';
@@ -21,7 +20,6 @@ function App() {
      <Route path='/viewmore/:imagePath/:Model/:Price/:RAM/:ROM/:Camera/:Processor/:Ratings/:id/:description' element={<ViewMore/>}/>
      <Route path='/viewcart' element={<ViewCart/>}/>
      <Route path='/favorites' element={<Favorites/>}/>
-     <Route path='/payment' element={<PaymentPage/>}/>
      <Route path='/orders' element={<Order/>}/>
     </Routes>
     </BrowserRouter>  
