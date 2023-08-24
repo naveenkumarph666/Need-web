@@ -294,7 +294,7 @@ function Dashboard() {
                         </ListItemIcon>
                         <ListItemText primary='Dark Mode' />
                     </ListItemButton>
-                    <ListItemButton onClick={() => logoutDashboard()}>
+                    <ListItemButton onClick={()=>logoutDashboard()}>
                         <ListItemIcon>
                             <LogoutIcon />
                         </ListItemIcon>
@@ -344,7 +344,7 @@ function Dashboard() {
                                 </ListItemIcon>
                                 <ListItemText primary='Dark Mode' />
                             </ListItemButton>
-                            <ListItemButton onClick={() => logoutDashboard()}>
+                            <ListItemButton onClick={()=>logoutDashboard()}>
                                 <ListItemIcon>
                                     <LogoutIcon className='dashboard-icons' />
                                 </ListItemIcon>
